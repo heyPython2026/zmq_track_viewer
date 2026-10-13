@@ -1,5 +1,7 @@
 # ZMQ Track Viewer
 
+A Windows GPS track viewer for real-time multi-target tracking and trajectory visualization, with ZeroMQ, NMEA 0183 serial, and UDP support.
+
 桌面端 GPS 轨迹实时追踪与可视化软件（Windows x64），基于 PySide6 + 天地图。
 
 ## 界面预览
